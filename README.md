@@ -1,6 +1,6 @@
 # Daily Stock Price Scraper
 
-This Python script scrapes the daily stock prices of specific stocks from Yahoo Finance and stores the data in a CSV file. The script uses BeautifulSoup for web scraping and requests to fetch the HTML content.
+This Python script scrapes the daily stock prices of specific stocks from Yahoo Finance and stores the data in a Excel file. The script uses BeautifulSoup for web scraping and requests to fetch the HTML content.
 
 ## Requirements
 
